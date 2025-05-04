@@ -8,8 +8,7 @@ Hi there!\
 - QQ: 3283891376
 - Mail: [3283891376@qq.com](mailto:3283891376@qq.com)
 
-![](https://github-readme-stats.vercel.app/api?username=chen3283891376&show_icons=true&include_all_commits=true&include_orgs=true&count_private=true)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chen3283891376&layout=compact)
-
-![](https://github-profile-trophy.vercel.app/?username=chen3283891376)
